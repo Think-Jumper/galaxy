@@ -1,0 +1,28 @@
+var namespacegalaxy =
+[
+    [ "widget", "namespacegalaxy_1_1widget.html", "namespacegalaxy_1_1widget" ],
+    [ "AnimationComponent", "classgalaxy_1_1_animation_component.html", "classgalaxy_1_1_animation_component" ],
+    [ "Application", "classgalaxy_1_1_application.html", "classgalaxy_1_1_application" ],
+    [ "Command", "classgalaxy_1_1_command.html", "classgalaxy_1_1_command" ],
+    [ "Config", "classgalaxy_1_1_config.html", "classgalaxy_1_1_config" ],
+    [ "EnabledFlag", "structgalaxy_1_1_enabled_flag.html", "structgalaxy_1_1_enabled_flag" ],
+    [ "FileSystem", "classgalaxy_1_1_file_system.html", "classgalaxy_1_1_file_system" ],
+    [ "FontBook", "classgalaxy_1_1_font_book.html", "classgalaxy_1_1_font_book" ],
+    [ "GUI", "classgalaxy_1_1_g_u_i.html", "classgalaxy_1_1_g_u_i" ],
+    [ "Layer", "classgalaxy_1_1_layer.html", "classgalaxy_1_1_layer" ],
+    [ "LayerStorage", "classgalaxy_1_1_layer_storage.html", "classgalaxy_1_1_layer_storage" ],
+    [ "LuaConsole", "classgalaxy_1_1_lua_console.html", "classgalaxy_1_1_lua_console" ],
+    [ "LuaEntity", "classgalaxy_1_1_lua_entity.html", "classgalaxy_1_1_lua_entity" ],
+    [ "MusicComponent", "classgalaxy_1_1_music_component.html", "classgalaxy_1_1_music_component" ],
+    [ "RenderSystem", "classgalaxy_1_1_render_system.html", "classgalaxy_1_1_render_system" ],
+    [ "ServiceLocator", "classgalaxy_1_1_service_locator.html", "classgalaxy_1_1_service_locator" ],
+    [ "ShaderBook", "classgalaxy_1_1_shader_book.html", "classgalaxy_1_1_shader_book" ],
+    [ "ShaderComponent", "classgalaxy_1_1_shader_component.html", "classgalaxy_1_1_shader_component" ],
+    [ "SoundComponent", "structgalaxy_1_1_sound_component.html", "structgalaxy_1_1_sound_component" ],
+    [ "SpriteBatchComponent", "classgalaxy_1_1_sprite_batch_component.html", "classgalaxy_1_1_sprite_batch_component" ],
+    [ "SpriteComponent", "classgalaxy_1_1_sprite_component.html", "classgalaxy_1_1_sprite_component" ],
+    [ "Tooltip", "classgalaxy_1_1_tooltip.html", "classgalaxy_1_1_tooltip" ],
+    [ "UITheme", "classgalaxy_1_1_u_i_theme.html", "classgalaxy_1_1_u_i_theme" ],
+    [ "Widget", "classgalaxy_1_1_widget.html", "classgalaxy_1_1_widget" ],
+    [ "World", "classgalaxy_1_1_world.html", "classgalaxy_1_1_world" ]
+];

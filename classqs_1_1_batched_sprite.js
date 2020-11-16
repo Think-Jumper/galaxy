@@ -1,0 +1,28 @@
+var classqs_1_1_batched_sprite =
+[
+    [ "BatchedSprite", "classqs_1_1_batched_sprite.html#a15f702b902d1c0eb211d0758ce6a379b", null ],
+    [ "BatchedSprite", "classqs_1_1_batched_sprite.html#af4b5ecc93689db23312d86c9928ed257", null ],
+    [ "BatchedSprite", "classqs_1_1_batched_sprite.html#ab5c99766470a94c8c5c3d9cb638a8fc6", null ],
+    [ "~BatchedSprite", "classqs_1_1_batched_sprite.html#a9666a6700758dff54e839b08b27bd0d1", null ],
+    [ "create", "classqs_1_1_batched_sprite.html#a15bce4a487d18b4d348684bc2f95ad69", null ],
+    [ "get_height", "classqs_1_1_batched_sprite.html#a6358d67d85b41d738be421af9a136fd6", null ],
+    [ "get_region", "classqs_1_1_batched_sprite.html#a00ed5437ee8f18b93d65cbd657478795", null ],
+    [ "get_width", "classqs_1_1_batched_sprite.html#ae14447834a9352b1b84e4ce527eca8d1", null ],
+    [ "operator=", "classqs_1_1_batched_sprite.html#af50c35665fa6b7cc6621ccc952548f4a", null ],
+    [ "operator=", "classqs_1_1_batched_sprite.html#a19fac8ce6d4f59b889d0ee86fdb4e11d", null ],
+    [ "set_opacity", "classqs_1_1_batched_sprite.html#ab14976a30cb9d15b3d498f76d474cd97", null ],
+    [ "set_z_level", "classqs_1_1_batched_sprite.html#ac46d1357091e5cfb11a67c395f5098b7", null ],
+    [ "update_h_region", "classqs_1_1_batched_sprite.html#a1c3d4f420a93d2903e2217d50fdfe6e8", null ],
+    [ "update_region", "classqs_1_1_batched_sprite.html#ac943d2876be98a317c195a3d18058e07", null ],
+    [ "update_region", "classqs_1_1_batched_sprite.html#a2d764766d61504b1a0243d539f704ee8", null ],
+    [ "update_w_region", "classqs_1_1_batched_sprite.html#a4db24b3e7a779454e6e717dda6318aab", null ],
+    [ "update_x_region", "classqs_1_1_batched_sprite.html#abe1e82192f72d38ce3363224722988c8", null ],
+    [ "update_y_region", "classqs_1_1_batched_sprite.html#ae4626f62c50f73ec4bd369cbf6428947", null ],
+    [ "z_level", "classqs_1_1_batched_sprite.html#acdbac59292aea075faf80a7c770065f7", null ],
+    [ "SpriteBatch", "classqs_1_1_batched_sprite.html#a87a9ebf63668c65cd8924090e22eea47", null ],
+    [ "Text", "classqs_1_1_batched_sprite.html#aee0ad1dafe471596e6d25530d9fbaf0c", null ],
+    [ "m_offset", "classqs_1_1_batched_sprite.html#ace47dc4fa83265c83ae14b2a1d40a7e5", null ],
+    [ "m_opacity", "classqs_1_1_batched_sprite.html#a859abfde2865022088d9f3ef5b4d9894", null ],
+    [ "m_region", "classqs_1_1_batched_sprite.html#a8c2ddb6a01d75559fe66996938aad111", null ],
+    [ "m_z_level", "classqs_1_1_batched_sprite.html#a1621d2fc8f7aa4f876d24b6455607437", null ]
+];

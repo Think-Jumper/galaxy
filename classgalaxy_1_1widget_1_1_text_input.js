@@ -1,0 +1,26 @@
+var classgalaxy_1_1widget_1_1_text_input =
+[
+    [ "TextInput", "classgalaxy_1_1widget_1_1_text_input.html#a4e6294a2ebd199100b6eba30c9ccac6a", null ],
+    [ "TextInput", "classgalaxy_1_1widget_1_1_text_input.html#ab57c9cb0e678eddf1704003ecbf725b3", null ],
+    [ "TextInput", "classgalaxy_1_1widget_1_1_text_input.html#aa374f8631d2631086182924afb216ca6", null ],
+    [ "~TextInput", "classgalaxy_1_1widget_1_1_text_input.html#a475dd0720a02187886a5a2765ba55e2f", null ],
+    [ "create", "classgalaxy_1_1widget_1_1_text_input.html#a46948a92e815e0050d679d4840dcc359", null ],
+    [ "on_event", "classgalaxy_1_1widget_1_1_text_input.html#a6ffd95d0ca670697e50c383fc29d5c19", null ],
+    [ "on_event", "classgalaxy_1_1widget_1_1_text_input.html#a07b71be2d4e8df75e1d5386602743722", null ],
+    [ "on_event", "classgalaxy_1_1widget_1_1_text_input.html#ad389555804afccfd83f8c9df01e1795a", null ],
+    [ "operator=", "classgalaxy_1_1widget_1_1_text_input.html#aa960a20d32f71adc26be1a15c7b610ae", null ],
+    [ "operator=", "classgalaxy_1_1widget_1_1_text_input.html#a402b68424d7c67c40c9dd16bf59fba7d", null ],
+    [ "render", "classgalaxy_1_1widget_1_1_text_input.html#a7aedfcc511e725275ce3df5d3bc3993e", null ],
+    [ "set_pos", "classgalaxy_1_1widget_1_1_text_input.html#ab944b9d8250e7bf9684cff96f8e9684b", null ],
+    [ "stop", "classgalaxy_1_1widget_1_1_text_input.html#a21e7ccd22a9df01ffed775f316595ff1", null ],
+    [ "update", "classgalaxy_1_1widget_1_1_text_input.html#a05a84cef146766ccf88677486195869a", null ],
+    [ "GUI", "classgalaxy_1_1widget_1_1_text_input.html#ac5a3536de371167fdf200e8943f8c2b0", null ],
+    [ "m_border_width", "classgalaxy_1_1widget_1_1_text_input.html#aaeefe888a670f515cdf8df73ef24667b", null ],
+    [ "m_cursor", "classgalaxy_1_1widget_1_1_text_input.html#ab1eb0d0738b871bdfa37b9446c78028e", null ],
+    [ "m_draw_cursor", "classgalaxy_1_1widget_1_1_text_input.html#a818add8f4088f49b4d720cad1aeed771", null ],
+    [ "m_is_focus", "classgalaxy_1_1widget_1_1_text_input.html#a68d9428227bfd90afdbdecff8450848e", null ],
+    [ "m_text", "classgalaxy_1_1widget_1_1_text_input.html#ab7d0d84d1cb901efad649c8fae83f3c6", null ],
+    [ "m_text_input", "classgalaxy_1_1widget_1_1_text_input.html#a655afeb782c2ea58a93e374a879492ae", null ],
+    [ "m_timer", "classgalaxy_1_1widget_1_1_text_input.html#acc8f8da490ed8c9e6571ae0638a366ff", null ],
+    [ "m_total_chars", "classgalaxy_1_1widget_1_1_text_input.html#abe78b8f6869bfdb13caa8a037cc06485", null ]
+];
